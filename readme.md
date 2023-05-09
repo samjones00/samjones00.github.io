@@ -4,7 +4,7 @@ _Senior software engineer based in London_
 
 [Email](mailto:sam@smjdesign.co.uk) / [Website](https://www.makingnoexceptions.co.uk/) / [LinkedIn](https://www.linkedin.com/in/samjones00/) / [GitHub](https://github.com/samjones00/)
 
-## Engineering Experience
+## Experience
 
 **Senior .NET Software Engineer / Manager** @ [Capgemini](https://www.capgemini.com/) _(Feb 2021 - Present)_ <br>
 My main role at Capgemini is to develop and deliver software solutions for our clients. I am also responsible for working with and mentoring developers ensuring that they are delivering high quality code as well as supporting my team members within Capgemini. 

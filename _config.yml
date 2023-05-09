@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: 💻✒️📄🌟
-description: Sam Jones's CV
+title: Sam Jones
+description: Experience and Certifications
+github:
+  is_project_page: false

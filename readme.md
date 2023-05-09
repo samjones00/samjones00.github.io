@@ -8,7 +8,7 @@ _Senior software engineer based in London_
 
 **Senior .NET Software Engineer / Manager** @ [Capgemini](https://www.capgemini.com/) _(Feb 2021 - Present)_ <br>
 My main role at Capgemini is to develop and deliver software solutions for our clients. I am also responsible for working with and mentoring developers ensuring that they are delivering high quality code as well as supporting my team members within Capgemini. 
-  - Devloping API's and microservices using `.NET Web API` and `Azure Functions`
+  - Developing API's and microservices using `.NET Web API` and `Azure Functions`
   - Writing testable code using unit tests, integration tests and end-to-end tests
   - Develop code following coding standards, best practices, patterns and SOLID principles
   - Managing API's and microservices using `Azure API Management`

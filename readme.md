@@ -14,12 +14,14 @@ My main role at Capgemini is to develop and deliver software solutions for our c
   - Developing API's and microservices using .NET Web API and Azure Functions
   - Writing testable code using unit tests, integration tests and end-to-end tests
   - Develop code following coding standards, best practices, patterns and SOLID principles
+  - Deploy code to individual environments using CI/CD using Azure Devops
+  - Troubleshooting application issues using Application Insights, checking kubernetes status and application configuration, and Azure Devops pipelines
   - Managing API's and microservices using Azure API Management
   - Mentoring and coaching junior developers on the team
   - Working with the client to understand requirements and deliver solutions
   - Conducting code reviews and providing feedback
 
-  _Technologies used:_ C#, .NET Core, .NET 6, Web API, Azure Functions, Azure (IaaS, PaaS), Azure Cosmos DB, OpenAPI documentation, Swagger, Azure DevOps, Git
+  _Technologies used:_ C#, .NET Core, .NET 6, Web API, Azure Functions, Azure (IaaS, PaaS), Azure Cosmos DB, OpenAPI documentation, Swagger, Azure DevOps, Git, Kubernetes, Docker
 <br><br>
 
 **.NET Software Engineer** @ [Codehouse](https://www.codehousegroup.com/) _(Sep 2018 - Feb 2021)_ <br>

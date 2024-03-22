@@ -9,7 +9,7 @@ _Senior software engineer based in London_
 
 ## Experience
 
-**Senior .NET Software Engineer / Manager** @ [Capgemini](https://www.capgemini.com/) _(Feb 2021 - Present)_ <br>
+**Senior .NET Software Engineer / Senior Manager** @ [Capgemini](https://www.capgemini.com/) _(Feb 2021 - Present)_ <br>
 My main role at Capgemini is to develop and deliver software solutions for our clients. I am also responsible for mentoring developers ensuring that they are delivering high quality code, as well as supporting my team members within Capgemini and managing the .NET recruitment panel.
   - Developing API's and microservices using .NET Web API and Azure Functions
   - Writing testable code using unit tests, integration tests and end-to-end tests
@@ -17,11 +17,11 @@ My main role at Capgemini is to develop and deliver software solutions for our c
   - Deploy code to individual environments using CI/CD using Azure Devops
   - Troubleshooting application issues using Application Insights, checking kubernetes status and application configuration, and Azure Devops pipelines
   - Managing API's and microservices using Azure API Management
-  - Mentoring and coaching junior developers on the team
+  - Mentoring and coaching junior developers on the team and my internal reportees
   - Working with the client to understand requirements and deliver solutions
-  - Conducting code reviews and providing feedback
+  - Conducting code reviews and providing feedback while improving processes
 
-  _Technologies used:_ C#, .NET Core, .NET 6, Web API, Azure Functions, Azure (IaaS, PaaS), Azure Cosmos DB, OpenAPI documentation, Swagger, Azure DevOps, Git, Kubernetes, Docker
+  _Technologies used:_ C#, .NET Core, .NET 8, Web API, Azure Functions, Azure (IaaS, PaaS), Azure Cosmos DB, OpenAPI documentation, Swagger, Azure DevOps, Git, Kubernetes, Docker
 <br><br>
 
 **.NET Software Engineer** @ [Codehouse](https://www.codehousegroup.com/) _(Sep 2018 - Feb 2021)_ <br>

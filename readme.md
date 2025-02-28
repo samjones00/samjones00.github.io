@@ -5,7 +5,7 @@ _Senior software engineer based in London_
 
 | Email | Website | LinkedIn | GitHub |
 |--|--|--|--|
-| [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) | [makingnoexceptions.co.uk](https://www.makingnoexceptions.co.uk/) | [linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00) | [github.com/samjones00](https://github.com/samjones00/) |
+| [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) | [makingnoexceptions]( https://makingnoexceptions.medium.com/) | [linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00) | [github.com/samjones00](https://github.com/samjones00/) |
 
 ## Experience
 
@@ -14,14 +14,16 @@ My main role at Capgemini is to develop and deliver software solutions for our c
   - Developing API's and microservices using .NET Web API and Azure Functions
   - Writing testable code using unit tests, integration tests and end-to-end tests
   - Develop code following coding standards, best practices, patterns and SOLID principles
-  - Deploy code to individual environments using CI/CD using Azure Devops
+  - Deploy code to individual environments using CI/CD using Azure Devops and GitLab
   - Troubleshooting application issues using Application Insights, checking kubernetes status and application configuration, and Azure Devops pipelines
   - Managing API's and microservices using Azure API Management
   - Mentoring and coaching junior developers on the team and my internal reportees
   - Working with the client to understand requirements and deliver solutions
   - Conducting code reviews and providing feedback while improving processes
 
-  _Technologies used:_ C#, .NET Core, .NET 8, Web API, Azure Functions, Azure (IaaS, PaaS), Azure Cosmos DB, OpenAPI documentation, Swagger, Azure DevOps, Git, Kubernetes, Docker
+Clients include ALD Automotive, Leaseplan.com, and other car leasing platforms.
+
+  _Technologies used:_ C#, .NET Core, .NET 8, Web API, Azure Functions, Azure (IaaS, PaaS), Azure Cosmos DB, OpenAPI documentation, Swagger, Azure DevOps, Git, Kubernetes, Docker, GitLab, Postgres
 <br><br>
 
 **.NET Software Engineer** @ [Codehouse](https://www.codehousegroup.com/) _(Sep 2018 - Feb 2021)_ <br>

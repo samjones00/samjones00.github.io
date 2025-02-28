@@ -5,7 +5,7 @@ _Senior software engineer based in London_
 
 | Email | Website | LinkedIn | GitHub |
 |--|--|--|--|
-| [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) | [makingnoexceptions]( https://makingnoexceptions.medium.com/) | [linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00) | [github.com/samjones00](https://github.com/samjones00/) |
+| [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) | [makingnoexceptions.medium.com](https://makingnoexceptions.medium.com/) | [linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00) | [github.com/samjones00](https://github.com/samjones00/) |
 
 ## Experience
 

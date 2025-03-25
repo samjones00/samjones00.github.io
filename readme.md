@@ -3,9 +3,9 @@
 _Senior software engineer based in London_
 
 
-| Phone | Email | Website | LinkedIn
-|--|--|--|--|
-| 07500 894238 | [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) | [makingnoexceptions.medium.com](https://makingnoexceptions.medium.com/) | [linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00)
+| Phone | Email | LinkedIn
+|--|--|--|
+| 07500 894238 | [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) | [linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00)
 
 ## Experience
 

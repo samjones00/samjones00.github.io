@@ -1,75 +1,131 @@
 # Sam Jones
-_Experienced Senior software engineer based in London_
+_Senior Software Engineer | Customer-focused Technology Leader_
 
-| Phone | Email | LinkedIn
-|--|--|--|
-| 07500 894238 | [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) | [linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00)
+📱 07500 894238 | 📧 [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) | 🔗[linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00)
 
+> A **customer-first minded** Senior Software Engineer with extensive experience in .NET development and cloud technologies. Proven track record of delivering high-quality, testable code in agile environments while mentoring development teams. Strong expertise in building scalable microservices and APIs that drive business growth and operational efficiency.
 
-A motivated and experienced Senior Software Engineer with a strong background in .NET development and cloud technologies. Proficient in developing and managing APIs and microservices, with a focus on delivering high-quality, testable code. Excellent problem-solving, mentoring, and communication skills.
+## 🚀 Core Technical Expertise
 
-## Experience
+**Primary Stack:** C#, .NET Core
 
-**Senior .NET Software Engineer / Senior Manager** @ [Capgemini](https://www.capgemini.com/) _(Feb 2021 - Present)_  
-At Capgemini I design, develop and deliver APIs and microservices to build event driven systems. I am also responsible for mentoring developers, ensuring that they are delivering high quality code, as well as supporting my team members within Capgemini and managing the .NET recruitment panel.
+**Testing Excellence:** TDD, BDD, Unit Testing, Integration Testing, End-to-End Testing, Performance Testing  
 
-  - Developing API's and microservices using .NET Web API and Azure Functions
-  - Writing reliable and testable code through unit tests, integration tests and end-to-end tests
-  - Develop code following coding standards, best practices, patterns and SOLID principles
-  - Deploy code to individual environments using CI/CD using Azure Devops and GitLab
-  - Troubleshooting application issues using Application Insights, checking kubernetes status and application configuration, and Azure Devops pipelines
-  - Managing API's and microservices using Azure API Management
-  - Mentoring and coaching junior developers on the team and my internal reportees
-  - Working with the client to understand requirements and create work items for the team
-  - Conducting code reviews and providing feedback while improving processes and coding standards
+**Architecture & Patterns:** Domain-Driven Design (DDD), CQRS, Microservices, SOLID Principles, Architectural patterns
 
-  _Technologies include:_ C#, .NET Core, .NET 8, Web API, Queues, Azure Functions, Azure (IaaS, PaaS), SQL Server, Postgres DB, Azure Cosmos DB, OpenAPI documentation, Azure DevOps, Git, Kubernetes, Docker, GitLab
+**Databases:** SQL Server, PostgreSQL, Azure Cosmos DB, MongoDB (NoSQL)  
+
+**Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes, CI/CD, Continuous Delivery, Build Automation, IaaC with Terraform
+
+**Development Practices:** Agile/Scrum, Code Reviews, API Management, Git, Jira, Azure DevOps Boards
 
 ---
-**.NET Software Engineer** @ [Codehouse](https://www.codehousegroup.com/) _(Sep 2018 - Feb 2021)_  
-At Codehouse I've been involved in the development of several customer facing websites, in both ASP.NET MVC and ASP.NET Core.
 
-One example has been Howdens.com, where I was part of a team tasked to develop the new online account management features for trade customers. This enhancement communicates with 3rd party APIs and allows customers to manage their account and make payments for outstanding balances.
+## 💼 Professional Experience
 
-Sites include [Howdens.com](http://www.howdens.com), [clarionhousing.com](https://www.myclarionhousing.com/)
+### **Senior .NET Software Engineer / Senior Manager** @ [**Capgemini**](https://www.capgemini.com/) 
+_Feb 2021 - Present_
 
-  - Writing and deploying code using Agile processes
-  - Developing MVC websites using Sitecore CMS as the datasource
-  - Working within an Agile team using Kanban
+Leading development of event-driven systems and high-scale APIs, primarily in the automotive sector developing car leasing systems.
 
-  
-_Technologies include:_ C#, .NET Framework, MVC, .NET Core 3.1, Azure (IaaS, PaaS), Sitecore, Octopus Deploy, TeamCity, Git, Jira
+• Design and develop scalable APIs and microservices using .NET Web API and Azure Functions for hyper-scale environments
 
----
-**Senior .NET Software Engineer** @ Aqueduct _(Jun 2017 - Sep 2018)_  
-My primary role at Aqueduct was to be the lead developer for the new tottenhamhotspur.com website which was built using Umbraco CMS. I was responsible for the development of the website, as well as mentoring junior developers and working with the project managers.
+• Champion test-first development approach, implementing comprehensive testing strategies including TDD, integration testing, end-to-end testing, and performance testing
 
-Sites include [tottenhamhotspur.com](https://www.tottenhamhotspur.com/), [wolves.co.uk](https://www.wolves.co.uk/)
+• Mentor and coach junior developers, ensuring delivery of high-quality, maintainable code following best practices
 
-  - Developing Umbraco CMS websites using .NET Framework and MVC
-  - Working within an Agile team using Scrum
+• Deploy applications using robust CI/CD pipelines with Azure DevOps and GitLab, enabling continuous delivery
 
-_Technologies include:_ C#, .NET Framework, MVC, .NET Core 3.1, Umbraco CMS, Azure (IaaS, PaaS), Git
+• Manage microservices ecosystem using Azure API Management and Kubernetes orchestration
 
----
-**.NET Developer** @ Cergis Software _(Jul 2014 - Jun 2017)_ <br>
-I worked on both greenfield and legacy projects. One project I developed for a client was a multilingual competition draw website that could be customised for each market individually, with translations and different images for each language, along with search and export functionalities for the competition entries. Another of my projects was to lead development on a bespoke EPOS till system used in several school uniform highstreet stores.
-  - Writing APIs using .NET Web API
-  - Writing Websites using .NET MVC
+• Collaborate with cross-functional teams to understand business requirements and model domain logic
 
-_Technologies include:_ C#, .NET Framework, MVC, .NET Core 3.1, Git
+• Conducting code reviews and providing feedback while improving processes and coding standards
+
+_**Technologies:**_ C#, .NET Core, .NET 8, Web API, Azure Functions, Azure, SQL Server, PostgreSQL, Azure Cosmos DB, Kubernetes, Docker, Azure DevOps, GitLab
 
 ---
-**.NET Developer** @ [Whitespace Work Software](https://whitespacews.com/) _(Aug 2012 - Jul 2014)_ <br>
-Primarily my role was to develop and maintain the portal for AllOnMobile, a mobile app used by several councils to organise their teams handling jobs such as reporting fly tipping, repairing potholes, etc. There customers and resellers could create new jobs to send out to mobile devices, and view the results of the jobs once they had been completed.
-  - Developing MVC websites using .NET Framework
-  - Develop the portal using Javascript, JQuery, CSS and HTML
-  - Work with the mobile app team to integrate with the portal
 
-_Technologies include:_ C#, NET Framework, MVC, JavaScript, JQuery, CSS, Html5, SQL, LINQ, Web Services, Git
+### **.NET Software Engineer** @ [**Codehouse**](https://www.codehousegroup.com/) 
+_Sep 2018 - Feb 2021_
 
-## Certifications 
-* Scaled Agile, Inc. Certified SAFe® 5 Agilist
-* Microsoft Certified: Azure Solutions Architect Expert
-* Microsoft Certified: DevOps Engineer Expert
-* Microsoft Certified: Azure Administrator Associate
+Developed customer-facing e-commerce applications for major retail brands, focusing on user experience and business growth. Built solutions that **improved customer efficiency** and improving customer satisfaction.
+
+• Developed high-traffic customer-facing websites using ASP.NET MVC and .NET Core
+
+• Built account management features for trade customers at **Howdens.com**, integrating with third-party payment APIs to improve customer experience
+
+• Implemented agile development processes using Kanban methodology within cross-functional teams
+
+• Developed responsive web applications using modern JavaScript frameworks and Sitecore CMS
+
+• Participated in continuous integration and deployment workflows
+
+_**Technologies:**_ C#, .NET Framework, MVC, .NET Core 3.1, JavaScript, Azure, Sitecore, Octopus Deploy, TeamCity
+
+---
+
+### **Senior .NET Software Engineer** @ **Aqueduct** 
+_Jun 2017 - Sep 2018_
+
+Led development of premium sports websites, focusing on content management and user experience. Responsible for **technical leadership** and team mentoring.
+
+• Led development team for **tottenhamhotspur.com** website rebuild using Umbraco CMS
+
+• Mentored junior developers and collaborated with project managers in Scrum environment
+
+• Delivered high-performance content management solutions for multiple high-profile clients
+
+_**Technologies:**_ C#, .NET Framework, MVC, .NET Core, Umbraco CMS, Azure, MediatR
+
+---
+
+### **.NET Developer** @ **Cergis Software** 
+_Jul 2014 - Jun 2017_
+
+Developed greenfield and legacy applications including multilingual competition platforms and bespoke EPOS retail systems.
+
+_**Technologies:**_ C#, .NET Framework, MVC, Web API
+
+---
+
+### **.NET Developer** @ [**Whitespace Work Software**](https://whitespacews.com/) 
+_Aug 2012 - Jul 2014_
+
+Developed portal applications for mobile workforce management serving local government customers.
+
+_**Technologies:**_ C#, .NET Framework, MVC, JavaScript, jQuery, CSS, HTML5, SQL, LINQ, Web Services
+
+---
+
+## 🏆 Professional Certifications
+
+• **Microsoft Certified: Azure Solutions Architect Expert**
+
+• **Microsoft Certified: DevOps Engineer Expert**
+
+• **Microsoft Certified: Azure Administrator Associate**
+
+• **Microsoft Certified: Azure AI Fundamentals**
+
+• **Microsoft Certified: Azure AI Engineer Associate**
+
+• **Microsoft Certified: Power Platform Fundamentals**
+
+• **Scaled Agile, Inc. Certified SAFe® 5 Agilist**
+
+---
+
+## 📈 Professional Development & Leadership
+
+• **Currently expanding frontend expertise** through React, Node.js, JavaScript, and TypeScript personal projects and online training
+
+• **Exploring Power Platform tools** to enhance business process automation capabilities
+
+• **Learning MCP servers** and modern AI integration patterns
+
+• **Learning Azure AI and Azure Foundry platforms** for enhanced cloud capabilities
+
+• **Experienced in driving improvements** in engineering processes and quality standards
+
+• **Strong advocate** for continuous learning and staying current with emerging technologies

@@ -1,5 +1,5 @@
 # Sam Jones
-_Senior Software Engineer | Senior Software Engineer_
+_Senior Software Engineer_
 
 📱 07500 894238 \ 📧 [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) \ 🔗[linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00)
 
@@ -11,11 +11,11 @@ _Senior Software Engineer | Senior Software Engineer_
 
 **Testing Excellence:** TDD, BDD, Unit Testing, Integration Testing, End-to-End Testing, Performance Testing  
 
-**Architecture & Patterns:** Domain-Driven Design (DDD), CQRS, Microservices, SOLID Principles, Architectural patterns
+**Architecture & Patterns:** Domain-Driven Design (DDD), CQRS, Microservices, SOLID Principles
 
-**Databases:** SQL Server, PostgreSQL, Azure Cosmos DB, MongoDB (NoSQL)  
+**Databases:** SQL Server, Azure Cosmos DB, PostgreSQL, MongoDB (NoSQL)  
 
-**Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes, CI/CD, Continuous Delivery, Build Automation, IaaC with Terraform
+**Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes, CI/CD, Continuous Delivery, Build Automation, IaaC with Terraform and Github Actions
 
 **Development Practices:** Agile/Scrum, Code Reviews, API Management, Git, Jira, Azure DevOps Boards
 

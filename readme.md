@@ -13,7 +13,7 @@ _Senior Software Engineer_
 
 **Architecture & Patterns:** Domain-Driven Design (DDD), CQRS, Microservices, SOLID Principles
 
-**Databases:** SQL Server, Azure Cosmos DB, PostgreSQL, MongoDB (NoSQL)  
+**Databases:** SQL Server, Azure Cosmos DB, PostgreSQL 
 
 **Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes, CI/CD, Continuous Delivery, Build Automation, IaaC with Terraform and Github Actions
 
@@ -28,7 +28,7 @@ _Feb 2021 - Present_
 
 Leading development of event-driven systems and high-scale APIs, primarily in the automotive sector developing car leasing systems.
 
-• Design and develop scalable APIs and microservices using .NET Web API and Azure Functions for hyper-scale environments
+• Design and develop scalable APIs and microservices using messaging, .NET Web API and Azure Functions for hyper-scale environments
 
 • Champion test-first development approach, implementing comprehensive testing strategies including TDD, integration testing, end-to-end testing, and performance testing
 
@@ -61,7 +61,7 @@ Developed customer-facing e-commerce applications for major retail brands, focus
 
 • Participated in continuous integration and deployment workflows
 
-_**Technologies:**_ C#, .NET Framework, MVC, .NET Core 3.1, JavaScript, Azure, Sitecore, Octopus Deploy, TeamCity
+_**Technologies:**_ C#, .NET Framework, MVC, .NET Core 3.1, Azure, Sitecore, Octopus Deploy, TeamCity
 
 ---
 

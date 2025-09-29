@@ -3,11 +3,13 @@ _Senior Software Engineer_
 
 📱 07500 894238 \ 📧 [sam@smjdesign.co.uk](mailto:sam@smjdesign.co.uk) \ 🔗[linkedin.com/in/samjones00](http://www.linkedin.com/in/samjones00)
 
-> Senior Software Engineer with extensive experience in .NET development and cloud technologies. Proven track record of delivering high-quality, testable code in agile environments while mentoring development teams. Strong expertise in building scalable microservices and APIs that drive business growth and operational efficiency.
+London, UK — Open to remote.
+
+> Senior Software Engineer with 12+ years of experience building scalable .NET microservices and Azure cloud platforms. Track record of delivering high-performance APIs and data pipelines, mentoring teams, and improving delivery through test-first practices and automated CI/CD.
 
 ## 🚀 Core Technical Expertise
 
-**Primary Stack:** C#, .NET Core
+**Primary Stack:** C#, .NET Core, and Python for internal prototypes
 
 **Testing Excellence:** TDD, BDD, Unit Testing, Integration Testing, End-to-End Testing, Performance Testing  
 
@@ -15,7 +17,9 @@ _Senior Software Engineer_
 
 **Databases:** SQL Server, Azure Cosmos DB, PostgreSQL, MongoDB (NoSQL)  
 
-**Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes, CI/CD, Continuous Delivery, Build Automation, IaaC with Terraform and Github Actions
+**Cloud & DevOps:** Microsoft Azure, Azure API Management, Docker, Kubernetes, CI/CD, Continuous Delivery, Build Automation, IaC with Terraform and GitHub Actions
+
+**Messaging & Queues:** Azure Service Bus & Storage Queues
 
 **Development Practices:** Agile/Scrum, Code Reviews, API Management, Git, Jira, Azure DevOps Boards
 
@@ -28,28 +32,32 @@ _Feb 2021 - Present_
 
 Leading development of event-driven systems and high-scale APIs, primarily in the automotive sector developing car leasing systems.
 
-• Design and develop scalable APIs and microservices using .NET Web API and Azure Functions for hyper-scale environments
+• Architected and built a scalable TCO calculator processing >10,000 vehicles using Web API, Azure Functions, Service Bus and Cosmos DB — enabling fleet managers to analyze costs and CO2 emissions across makes/models and reducing analysis time from hours to minutes.
 
-• Champion test-first development approach, implementing comprehensive testing strategies including TDD, integration testing, end-to-end testing, and performance testing
+• Built automated vehicle data ingestion tooling for validating and importing manufacturer data from multiple formats (CSV, Parquet) into centralized catalog databases, supporting real-time front-end vehicle selection and comparison features
 
-• Mentor and coach junior developers, ensuring delivery of high-quality, maintainable code following best practices
+• Design and develop scalable APIs and microservices using .NET Web API and Azure Functions for hyper-scale environments.
 
-• Deploy applications using robust CI/CD pipelines with Azure DevOps and GitLab, enabling continuous delivery
+• Champion a test-first development approach, implementing comprehensive testing strategies including TDD, integration testing, end-to-end testing, and performance testing.
 
-• Manage microservices ecosystem using Azure API Management and Kubernetes orchestration
+• Mentor and coach junior developers, ensuring delivery of high-quality, maintainable code following best practices.
 
-• Collaborate with cross-functional teams to understand business requirements and model domain logic
+• Deploy applications using robust CI/CD pipelines with Azure DevOps and GitLab, enabling continuous delivery.
 
-• Conducting code reviews and providing feedback while improving processes and coding standards
+• Manage the microservices ecosystem using Azure API Management and Kubernetes orchestration.
 
-_**Technologies:**_ C#, .NET Core, .NET 8, Web API, Azure Functions, Azure, SQL Server, PostgreSQL, Azure Cosmos DB, Kubernetes, Docker, Azure DevOps, GitLab
+• Collaborate with cross-functional teams to understand business requirements and model domain logic.
+
+• Conduct code reviews and provide feedback while improving processes and coding standards.
+
+_**Technologies:**_ C#, .NET Core, .NET 8, Web API, Azure Functions, Azure, SQL Server, Entity Framework (EF Core), PostgreSQL, Azure Cosmos DB, Kubernetes, Docker, Azure DevOps, GitLab
 
 ---
 
 ### **.NET Software Engineer** @ [**Codehouse**](https://www.codehousegroup.com/) 
 _Sep 2018 - Feb 2021_
 
-Developed customer-facing e-commerce applications for major retail brands, focusing on user experience and business growth. Built solutions that **improved customer efficiency** and improving customer satisfaction.
+Developed customer-facing e-commerce applications for major retail brands, focusing on user experience and business growth. Built solutions that **improved customer efficiency and customer satisfaction**.
 
 • Developed high-traffic customer-facing websites using ASP.NET MVC and .NET Core
 
@@ -59,7 +67,7 @@ Developed customer-facing e-commerce applications for major retail brands, focus
 
 • Developed responsive web applications using modern JavaScript frameworks and Sitecore CMS
 
-• Participated in continuous integration and deployment workflows
+• Contributed to CI/CD pipelines using TeamCity and Octopus Deploy to automate build and release processes.
 
 _**Technologies:**_ C#, .NET Framework, MVC, .NET Core 3.1, JavaScript, Azure, Sitecore, Octopus Deploy, TeamCity
 
@@ -74,7 +82,7 @@ Led development of premium sports websites, focusing on content management and u
 
 • Mentored junior developers and collaborated with project managers in Scrum environment
 
-• Delivered high-performance content management solutions for multiple high-profile clients
+• Engineered high-performance CMS solutions, resulting in improved site speed and user engagement for high-profile clients
 
 _**Technologies:**_ C#, .NET Framework, MVC, .NET Core, Umbraco CMS, Azure, MediatR
 
@@ -85,7 +93,15 @@ _Jul 2014 - Jun 2017_
 
 Developed greenfield and legacy applications including multilingual competition platforms and bespoke EPOS retail systems.
 
-_**Technologies:**_ C#, .NET Framework, MVC, Web API
+• Built multilingual competition and promotion platforms supporting multiple European markets
+
+• Developed bespoke EPOS (Electronic Point of Sale) retail systems with integrated payment processing
+
+• Maintained and enhanced legacy applications while implementing modern development practices
+
+• Collaborated with business stakeholders to gather requirements and deliver custom software solutions
+
+_**Technologies:**_ C#, .NET Framework, MVC, Web API, SQL Server, JavaScript
 
 ---
 
@@ -93,6 +109,14 @@ _**Technologies:**_ C#, .NET Framework, MVC, Web API
 _Aug 2012 - Jul 2014_
 
 Developed portal applications for mobile workforce management serving local government customers.
+
+• Built web-based workforce management portals for local government field service teams
+
+• Developed responsive user interfaces using JavaScript, jQuery, and modern CSS techniques
+
+• Integrated with web services and databases to manage scheduling and resource allocation
+
+• Participated in full software development lifecycle from requirements gathering to deployment
 
 _**Technologies:**_ C#, .NET Framework, MVC, JavaScript, jQuery, CSS, HTML5, SQL, LINQ, Web Services
 
@@ -118,14 +142,10 @@ _**Technologies:**_ C#, .NET Framework, MVC, JavaScript, jQuery, CSS, HTML5, SQL
 
 ## 📈 Professional Development & Leadership
 
-• **Currently expanding frontend expertise** through React, Node.js, JavaScript, and TypeScript personal projects and online training
+• **Expanding frontend expertise** in React, Node.js, JavaScript, and TypeScript through personal projects
 
-• **Exploring Power Platform tools** to enhance business process automation capabilities
+• **Exploring AI integration** with MCP servers, Python, and Azure Foundry & OpenAI for modern development workflows
 
-• **Learning MCP servers** and modern AI integration patterns
+• **Power Platform proficiency** for business process automation and low-code solutions
 
-• **Learning Azure AI and Azure Foundry platforms** for enhanced cloud capabilities
-
-• **Experienced in driving improvements** in engineering processes and quality standards
-
-• **Strong advocate** for continuous learning and staying current with emerging technologies
+• **Continuous learner** staying current with emerging technologies and industry best practices

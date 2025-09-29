@@ -71,7 +71,7 @@ Developed customer-facing e-commerce applications for major retail brands, focus
 
 - Contributed to CI/CD pipelines using TeamCity and Octopus Deploy to automate build and release processes.
 
-_**Technologies:**_ C#, .NET Framework, MVC, .NET Core 3.1, JavaScript, Azure, Sitecore, Octopus Deploy, TeamCity
+_**Technologies:**_ C#, .NET Framework, MVC, .NET Core 3.1, Azure, Sitecore, Octopus Deploy, TeamCity
 
 ---
 
